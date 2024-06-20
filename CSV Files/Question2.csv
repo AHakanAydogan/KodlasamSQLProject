@@ -1,6 +1,6 @@
-order_status;(Tümü)
+order_status;(TÃ¼mÃ¼)
 ;
-Satır Etiketleri;Toplam order_count
+SatÃ½r Etiketleri;Toplam order_count
 2016-09;1
 2016-10;320
 2016-12;1
@@ -26,5 +26,5 @@ Satır Etiketleri;Toplam order_count
 2018-08;6620
 2018-09;1
 NULL;160
-(boş);
+(boÃ¾);
 Genel Toplam;99441
